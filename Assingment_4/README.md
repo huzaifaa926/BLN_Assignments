@@ -13,9 +13,8 @@ ___
 #### P1
 ___
 
-   ![alt text](/assets/A4P1SS1.png "Server Running.")
-   ![alt text](/assets/A4P1SS3.png "File Sent.")
-   ![alt text](/assets/A4P1SS2.png "File Received.")
-&nbsp;
-
-   ![alt text](/assets/A4P1SS4.png "Data in the File.")
+   <img src="https://github.com/huzaifaa926/BLN_Assignments/blob/master/assets/A4P1SS1.png" width="450" height="200">
+   <img src="https://github.com/huzaifaa926/BLN_Assignments/blob/master/assets/A4P1SS3.png" width="450" height="200">
+   <img src="https://github.com/huzaifaa926/BLN_Assignments/blob/master/assets/A4P1SS2.png" width="450" height="200">
+   <img src="https://github.com/huzaifaa926/BLN_Assignments/blob/master/assets/A4P1SS4.png" width="450" height="200">
+   

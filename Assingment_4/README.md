@@ -16,4 +16,6 @@ ___
    ![alt text](/assets/A4P1SS1.png "Server Running.")
    ![alt text](/assets/A4P1SS3.png "File Sent.")
    ![alt text](/assets/A4P1SS2.png "File Received.")
+&nbsp;
+
    ![alt text](/assets/A4P1SS4.png "Data in the File.")

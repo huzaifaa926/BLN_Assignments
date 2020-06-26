@@ -12,11 +12,8 @@ ___
 
 #### P1
 ___
-
-   ![alt text](/assets/A3P1SS1.png "Deploy.")
-   ![alt text](/assets/A3P1SS2.png "Deployed Contracts.")
-   ![alt text](/assets/A3P1SS3.png "Add Student.")
-   ![alt text](/assets/A3P1SS4.png "Add Semester Record.")
-   ![alt text](/assets/A3P1SS5.png "View Student Record.")
-   ![alt text](/assets/A3P1SS6.png "Update Semester Record.")
-   ![alt text](/assets/A3P1SS7.png "View Student Record.")
+   <img src="https://github.com/huzaifaa926/BLN_Assignments/blob/master/assets/A3P1SS1.png" width="220" height="220">   <img src="https://github.com/huzaifaa926/BLN_Assignments/blob/master/assets/A3P1SS2.png" width="220" height="220">   <img src="https://github.com/huzaifaa926/BLN_Assignments/blob/master/assets/A3P1SS3.png" width="220" height="220">
+   <img src="https://github.com/huzaifaa926/BLN_Assignments/blob/master/assets/A3P1SS4.png" width="220" height="220">
+   <img src="https://github.com/huzaifaa926/BLN_Assignments/blob/master/assets/A3P1SS5.png" width="220" height="220">
+   <img src="https://github.com/huzaifaa926/BLN_Assignments/blob/master/assets/A3P1SS6.png" width="220" height="220">
+   <img src="https://github.com/huzaifaa926/BLN_Assignments/blob/master/assets/A3P1SS7.png" width="220" height="220">

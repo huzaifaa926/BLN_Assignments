@@ -1,0 +1,6 @@
+Dear Students
+In the class, we have studied that how a reentrant attack can be launched using a single function.
+In this assignment, you need to launch the attack. 
+As a sample you may create two classes. A vulnerable contract and a malicious contract. You can use the methodology discussed in the class.
+
+You should also submit a solution which can cater this attack. Submit code and snapshots confirming the attack and the revised code with no possibility of attack

@@ -1,0 +1,15 @@
+Write a solidity code which creates a blockchain system of student's academic records. with following features:
+Each semester student's SGPA is added.
+- ID, Names, Semester, SGPA
+- Adding Students -> only once
+- Adding semester record 
+- Update Students
+- Retrieve Students
+
+Submissions:
+1) code 
+2) snapshots
+3) Submit the following Ethical Statement:
+
+I hereby confirm that I have not cheated or copied in this assignment. I have obtain help from following resources:
+<List resources>
